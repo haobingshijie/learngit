@@ -5,3 +5,4 @@ huang
 huang change
 huang pink
 huang white
+Creating a new branch is quick & simple.
